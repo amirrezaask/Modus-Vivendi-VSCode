@@ -9,6 +9,8 @@ A big thanks to [Ronnie](https://github.com/ronniedroid) who started creating th
 
 - [Original Modus-Vivendi VSCode Theme](https://github.com/ronniedroid/modus-vivendi-vscode)
 
-This theme is our best effort to replicate his theme from emacs and is not perfect. This theme is still yet to be published, and be available on the Visual Studio Code Marketplace.
+This theme is our best effort to replicate his theme from emacs and is not perfect. This theme is now available on the Visual Studio Code Marketplace.
+
+Go check it out! https://marketplace.visualstudio.com/items?itemName=Binx.modus-vivendi-code
 
 **Enjoy!**
