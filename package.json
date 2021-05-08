@@ -1,8 +1,23 @@
 {
     "name": "modus-vivendi-code",
-    "displayName": "modus-vivendi",
-    "description": "modus vivendi theme for vscode",
+    "displayName": "Modus-Vivendi",
+    "description": "Modus Vivendi theme for VSCode",
     "version": "0.0.1",
+    "publisher": "Binx",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Binx-Codes/Modus-Vivendi-VSCode"
+    },
+    "keywords": [
+        "theme",
+        "colorscheme",
+        "dark theme",
+        "purple theme",
+        "Binx",
+        "binx",
+        "modus-vivendi",
+        "modus vivendi"
+    ],
     "engines": {
         "vscode": "^1.55.0"
     },
