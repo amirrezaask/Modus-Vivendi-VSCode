@@ -2,7 +2,7 @@
     "name": "modus-vivendi-code",
     "displayName": "Modus-Vivendi",
     "description": "Modus Vivendi theme for VSCode",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "publisher": "Binx",
     "repository": {
         "type": "git",
