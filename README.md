@@ -13,4 +13,12 @@ This theme is our best effort to replicate his theme from emacs and is not perfe
 
 Go check it out! https://marketplace.visualstudio.com/items?itemName=Binx.modus-vivendi-code
 
+<br>
+
+## Preview
+
+<p align="center">
+  <img src="/Modus-Vivendi Preview.png" height="480" />
+</p>
+
 **Enjoy!**
