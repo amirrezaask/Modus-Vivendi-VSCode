@@ -1,5 +1,4 @@
 # Modus-Vivendi-VSCode
-## This is the README for your theme extension "modus-vivendi" for Visual Studio Code
 
 This theme was inspired by one of the themes from Emacs, which is the Original Modus-Vivendi theme created by [Protesilaos Stavrou](https://github.com/protesilaos)
 
@@ -12,6 +11,8 @@ A big thanks to [Ronnie](https://github.com/ronniedroid) who started creating th
 This theme is our best effort to replicate his theme from emacs and is not perfect. This theme is now available on the Visual Studio Code Marketplace.
 
 Go check it out! https://marketplace.visualstudio.com/items?itemName=Binx.modus-vivendi-code
+
+I would also suggest taking a look at the doom-one vscode theme: https://marketplace.visualstudio.com/items?itemName=NTBBloodbath.doom-one
 
 ## Preview
 
